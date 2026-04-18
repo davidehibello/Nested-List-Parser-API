@@ -1,0 +1,13 @@
+package com.example.nestedlist.dto;
+
+public class ParseRequest {
+    private String input;
+
+    public String getInput() {
+        return input;
+    }
+
+    public void setInput(String input) {
+        this.input = input;
+    }
+}
